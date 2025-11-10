@@ -20,7 +20,6 @@ Una vez creado el repositorio, se descarga en el directorio deseado el proyecto 
 ## Estructura inicial del proyecto personal
 Se crean las carpetas y archivos base del proyecto, replicando la metodología utilizada en el primer ejercicio.
 
-![Structure](/img/2_structure.png)
 ![Create Structure](/img/2_create_structure.png)
 
 ---
