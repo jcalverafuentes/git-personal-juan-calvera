@@ -57,7 +57,7 @@ Se abre el proyecto en Visual Studio Code y se edita el archivo `index.html`, a√
 ## Guardar cambios (proyectos) 
 Guarda, a√±ade y confirma los cambios iniciales mediante git add, git commit y git push
 
-![Changes](/img/5_save_changes_proyectos.png.png)
+![Changes](/img/5_save_changes_proyectos.png)
 
 ---
 
